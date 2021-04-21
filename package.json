@@ -1,0 +1,36 @@
+{
+  "//1": "Çalınması Ve Paylaşılması Yasaktır",
+  "name": "hello-express",
+  "version": "0.0.1",
+  "description": "İzexlesh V12 Bot Altyapı",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "discord.js": "^12.2.0",
+    "chalk": "^4.0.0",
+    "moment": "^2.29.1",
+    "jimp": "^0.12.1",
+    "quick.db": "^7.1.1",
+    "snekfetch": "^4.0.4",
+    "moment-duration-format": "^2.3.2",
+    "os": "^0.1.1",
+    "superagent": "^6.1.0",
+    "node-fetch": "^2.6.1",
+    "common-tags": "^1.8.0"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/hello-express"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}
