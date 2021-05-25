@@ -3,5 +3,5 @@
 
 **Tokeni** : ayarlar.json kısmına giriniz eğer tokeni .env kısmına ayarlamak istiyorsanız bot.jsde en aşağı kısma gelip client.login(ayarlar.token); olan kısmı client.login(process.env.token); yapınız!
 
-Eğer botumuzda bir hata ile karşılaşırsanız **izexlesh#1370** hesabıma dmden ulaşarak yardım alabilirsiniz!
+Eğer botumuzda bir hata ile karşılaşırsanız **izexlesh#1597** hesabıma dmden ulaşarak yardım alabilirsiniz!
 İyi Kodlamalar...
